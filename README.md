@@ -1,15 +1,15 @@
-# SimplePDFViewer [![Android](https://img.shields.io/badge/active-SimplePDFViewer-green.svg?style=true)](https://github.com/jesro/MobileApp)
-Easily create your pdf viewer screen with url
+# SimplePDFViewer [![Android](https://img.shields.io/badge/inactive-SimplePDFViewer-green.svg?style=true)](https://github.com/jesro/MobileApp)
+Efficient PDF viewer supporting URLs, local storage, seamless zoom, and modular scalability with robust design patterns.
 
-Android SimplePDFViewer
+<img src="https://readme-typing-svg.demolab.com/?lines=Improved%20Version%20Available%20(Not%20Yet%20Updated%20in%20Repo)&font=Fira%20Code&width=880&height=50&duration=3000&pause=1000%22%20alt=Improved%20Version%20Available%20(Not%20Yet%20Updated%20in%20Repo)">
 
-SimplePDFViewer library allows you to view pdf from url with less effort
-
+> Note: The current repository contains the original Java version of the library. However, an improved version with updates in Kotlin and additional features has been developed but has not yet been committed to this repository.
+###### 
 ![Screenshot_20201004-093005](https://user-images.githubusercontent.com/10104522/95653681-096a1580-0b18-11eb-81ca-db33ce7fd01e.gif)
 
 ## Usage
 ###### Setup
-This library is available on Jcenter.
+This library is available on Maven.
 ```
 implementation 'com.jespeakywikis.pdfviewer:pdfviewer:1.0.2'
 ```
