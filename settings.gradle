@@ -1,0 +1,3 @@
+include ':PDFViewer'
+include ':app'
+rootProject.name = "SimplePDFViewer"
