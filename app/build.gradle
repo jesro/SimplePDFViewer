@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
+    namespace "com.jespeakywikis.simplepdfviewer"
     compileSdkVersion 29
     buildToolsVersion "30.0.1"
 
